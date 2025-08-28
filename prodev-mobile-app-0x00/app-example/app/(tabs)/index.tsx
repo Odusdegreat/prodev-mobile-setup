@@ -1,7 +1,9 @@
-import React from "react";
+import { Text, View } from "react-native";
 
-function index() {
-  return <div>index</div>;
+export default function HomeScreen() {
+  return (
+    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
+      <Text>First App Created</Text>
+    </View>
+  );
 }
-
-export default index;
