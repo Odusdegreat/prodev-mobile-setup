@@ -4,7 +4,7 @@ export default function Index() {
   return (
     <View style={styles.container}>
       <Text>Entry Screen - Awesome</Text>
-      <Text style={styles.largeText}>
+      <Text style={styles.textLarge}>
         Typescript is great if you practice more like it.
       </Text>
       <Text style={styles.mediumText}>
