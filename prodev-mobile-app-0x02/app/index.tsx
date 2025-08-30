@@ -28,7 +28,7 @@ export default function Index() {
             <View style={styles.textGroup}>
               {/* ✅ Required Text */}
               <Text style={styles.textLarge}>
-                find your favorite place here
+                Find your favorite place here
               </Text>
 
               {/* Extra Texts */}
